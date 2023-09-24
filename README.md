@@ -11,6 +11,9 @@ Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, PostgreSQL, Spark
 #### Psychometrics:
 Winsteps, Mplus, Xcalibre, Iteman
 
+**contacts:**
+anna.a.gor@yandex.ru
+
 <!--
 **AnnaAGor/AnnaAGor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
