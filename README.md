@@ -8,6 +8,9 @@
 #### Data analysis:
 Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, PostgreSQL, Spark
 
+#### BI-tools:
+Tableau, Power BI, DataLens
+
 #### Psychometrics:
 Winsteps, Mplus, Xcalibre, Iteman, SPSS
 
