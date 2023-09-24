@@ -1,10 +1,10 @@
-### Hi there, I'm Anna Gorbunova 👋
+## Hi there, I'm Anna Gorbunova 👋
 
 - 🔭 I’m currently looking for career opportunities in data analysis
 - 🌱 I was learning Data analysis in Yandex.Praktikum and Data science in National Research University Higher School of Economics
 - ⚡ Fun fact: I had 4 years of research experience as psychometric and social science
 
-## Data analysis:
+#### Data analysis:
 Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn
 
 
