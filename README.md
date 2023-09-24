@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Anna Gorbunova 👋
+
+- 🔭 I’m currently looking for career opportunities in data analysis
+- 🌱 I was learning Data analysis in Yandex.Praktikum and Data science in National Research University Higher School of Economics
+- ⚡ Fun fact: I had 4 years of research experience as psychometric and social science
+
 
 <!--
 **AnnaAGor/AnnaAGor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
