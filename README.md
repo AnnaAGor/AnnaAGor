@@ -9,7 +9,7 @@
 Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, PostgreSQL, Spark
 
 #### Psychometrics:
-Winsteps, Mplus, Xcalibre, Iteman
+Winsteps, Mplus, Xcalibre, Iteman, SPSS
 
 **contacts:**
 anna.a.gor@yandex.ru
