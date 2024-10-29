@@ -1,6 +1,6 @@
 ## Hi there, I'm Anna Gorbunova 👋
 
-- 🔭 I’m currently looking for career opportunities in data analysis
+- 🔭 I’m currently looking for career opportunities in data analysis and psychometrics
 - 🌱 I have pursued my further education in Data Analysis at Yandex.Praktikum in 2022 and Data Science at the National Research University Higher School of Economics from 2020 to 2022.
 - ⚡ Fun fact: I have 4 years of research experience in psychometrics and social science, master degree in psychometrics.
 
